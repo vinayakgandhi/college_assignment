@@ -14,6 +14,7 @@ root
 ```
 
 basically `whoami` shows my username which is root (administrator). `id` shows my user id (0 means root) and group ids. im in the root group which has full system access
+https://cdn.discordapp.com/attachments/1438130151748665369/1457465715693977763/image.png?ex=695c1a39&is=695ac8b9&hm=031312dc4bd254c38b1b0617363172a0ec1e5c1f0bf2c5a1b906bc6ad7415ca7&
 
 ---
 
