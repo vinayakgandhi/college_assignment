@@ -37,6 +37,7 @@ root@Assignment:~#
 ```
 
 `pwd` shows im in /root which is root users home directory. `ls -la` shows all files including hidden ones with permissions, owner, size etc
+<img width="2304" height="1672" alt="image" src="https://github.com/user-attachments/assets/ee6cbace-bdc0-4f90-8c04-f7e4a0d8e418" />
 
 ---
 
@@ -49,6 +50,7 @@ Linux user environment verified
 ```
 
 created user_info.txt with echo and output redirection. cat confirms the content is there
+<img width="1904" height="824" alt="image" src="https://github.com/user-attachments/assets/308fc243-3630-4d09-a8cb-a7da668e5546" />
 
 ---
 
@@ -60,6 +62,7 @@ root@Assignment:~# wc -c user_info.txt
 ```
 
 wc -c counts characters. file has 35 chars including the newline
+<img width="1312" height="522" alt="image" src="https://github.com/user-attachments/assets/0a62f3ee-1d1f-4fc3-a1a2-6010490a2167" />
 
 ---
 
@@ -89,6 +92,7 @@ root@Assignment:~#
 ```
 
 used --help instead of man since man wasnt installed. the `-p` option is useful - it creates parent directories as needed. like `mkdir -p a/b/c` makes all 3 folders at once even if a and b dont exist yet
+<img width="1358" height="1236" alt="image" src="https://github.com/user-attachments/assets/dc49c500-cb31-492d-95ff-f36b1625abee" />
 
 ---
 
@@ -142,6 +146,7 @@ rtt min/avg/max/mdev = 1.891/1.907/1.926/0.012 ms
 ```
 
 sent 4 icmp packets to google. all came back so network is working fine
+<img width="1562" height="1030" alt="image" src="https://github.com/user-attachments/assets/fd324586-7f7e-458c-9e36-acf98be832c4" />
 
 ---
 
@@ -159,5 +164,6 @@ shows:
 - load averages for 1, 5, 15 mins - numbers below 1 means system isnt stressed
 
 ---
+<img width="1662" height="1680" alt="image" src="https://github.com/user-attachments/assets/f4744854-8f46-4804-8268-066309c33502" />
 
 **files created:** user_info.txt, log.txt
