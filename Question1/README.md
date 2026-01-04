@@ -164,6 +164,5 @@ shows:
 - load averages for 1, 5, 15 mins - numbers below 1 means system isnt stressed
 
 ---
-<img width="1662" height="1680" alt="image" src="https://github.com/user-attachments/assets/f4744854-8f46-4804-8268-066309c33502" />
 
 **files created:** user_info.txt, log.txt
